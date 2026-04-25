@@ -42,4 +42,4 @@ Protegen la red bloqueando puertos. Es necesario permitir el puerto usado por el
 
 La comunicación en este proyecto es en texto plano. Para mayor seguridad se recomienda usar TLS/SSL.
 
-Hecho por: Elsy
+
