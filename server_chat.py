@@ -43,11 +43,11 @@ while True:
     hilo.start()
 
 
-#versión mejorada y más robusta por Dante
-"Manejo correcto de errores"
-"Cierre limpio de conexiones"
-"Identificación de clientes"
-"Evitar fallos si un cliente se desconecta mal"
+"versión mejorada y más robusta por Dante
+"Manejo correcto de errores
+"Cierre limpio de conexiones
+"Identificación de clientes
+"Evitar fallos si un cliente se desconecta mal
 
 import socket
 import threading
