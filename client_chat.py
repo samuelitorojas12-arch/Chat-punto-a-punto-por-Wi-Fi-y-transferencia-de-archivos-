@@ -28,7 +28,7 @@ threading.Thread(target=enviar_mensajes).start()
 
 
     """
-versión 1.0.1
+versión 1.1.0
 MEJORAS AL CÓDIGO
 Manejo de errores en conexión (try/except)
 Detecta cuando el servidor se desconecta (if not datos)
