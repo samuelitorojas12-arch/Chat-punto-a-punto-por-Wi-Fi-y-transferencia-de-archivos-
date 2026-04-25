@@ -42,4 +42,4 @@ nmcli dev wifi hotspot
 * Revisar conexión Wi-Fi
 * Abrir puertos necesarios
 
-Hecho por: Elsy
+
