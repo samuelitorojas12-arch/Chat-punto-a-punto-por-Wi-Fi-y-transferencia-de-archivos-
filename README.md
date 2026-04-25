@@ -37,7 +37,7 @@ Bello Yoval Elsy Abril
 Bello Rojas Cristian Samuel
 Cortes Olivares Jose Ramon 
 Piña Hernanadez Magly
-Sanchez Hernanadez Dante Emmanuel
+Sanchez Hernandez Dante Emmanuel
 
 Proyecto académico
 
